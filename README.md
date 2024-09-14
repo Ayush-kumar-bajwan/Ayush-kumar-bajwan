@@ -10,7 +10,7 @@
 
 <div align="center">
 
-👨‍💻 I'm currently seeking for intership opportunities in **Software developement**
+👨‍💻 I'm currently seeking for intership/freshers opportunities in **Software developement**
  
  🔭 I’m currently working on my **Personal projects**
  
